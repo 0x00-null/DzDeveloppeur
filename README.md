@@ -10,7 +10,6 @@ Communities like StackOverflow, Toptal, Developers Forum or GitHub are just a fe
 
 But since we want to start building your own Q&A platform for Algerian developers. We just need to focus on a couple of key elements. Specifically, We need to start with researching what kind of members we want to attract which has been done already (Our DZ Developpeurs Community), then put together a comprehensive plan ahead of the launch. 
 
-==
 This project is released under a BSD-style license. See
 COPYING for more details.
 
