@@ -23,6 +23,12 @@ New bugs and feature requests should be directed to:
 
 Questions and suggestions can be sent to: Gitter channel https://gitter.im/dzdeveloppeurs/Lobby
 
+The New Algiers YouTube Channel that will contain Live Coding Sessions and Tutorials for all those who want to contribute : 
+[YouTube-Channel]( https://www.youtube.com/c/thenewalgiers)
+
+A Facebook page in which we will make announcements for the general users and try to reach out to our fellow Algerian Developers
+[The New Algiers Facebook Page](https://www.facebook.com/thenewalgiers/)
+
 Contributing
 --
 See the [Dev Environment Setup][wiki-devenv] guide on GitHub, which will
@@ -37,8 +43,6 @@ pull request. For slightly more information, see
 [wiki-devenv]: https://github.com/thesilvereagle/DzDeveloppeur/wiki/Setting-Up-a-DzDev-Development-Environment "DzDev Development Environment Setup"
 [wiki-start]: https://github.com/thesilvereagle/DzDeveloppeur/wiki/ "DZ Dev Wiki"
 [wiki-usage]: https://github.com/thesilvereagle/DzDeveloppeur/wiki/Using-DzDev "Using Dz Dev"
-[YouTube-Channel]: https://www.youtube.com/c/thenewalgiers "The New Algiers YouTube Channel that will contain Live Coding Sessions and Tutorials for all those who want to contribute"
-[wiki-usage]: https://github.com/thesilvereagle/DzDeveloppeur/wiki/Using-DzDev "Using Dz Dev"
-[The New Algiers Facebook Page]: https://www.facebook.com/thenewalgiers/ "A Facebook page in which we will make announcements for the general users and try to reach out to our fellow Algerian Developers"
+
 
 
