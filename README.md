@@ -1,6 +1,6 @@
 DzDeveloppeur
 ==
-This is a learning projet in which we are going to build a Q&amp;A Web application for Algerian Developers to gather all the community.
+This is a learning project in which we are going to build a Q&amp;A Web application for Algerian Developers to gather all the community.
 
 The life of a programmer can be isolating sometimes, as they are passionate about their work and tend to spend a lot of time coding. Their dedication is recognized and appreciated, but sometimes a little more communication is needed. This is where a Q&A platform for developers comes into play, as an excellent way to stay connected to a large support network of developers like ours at DZ DEVELOPPEURS.
 
